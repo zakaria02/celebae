@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427210682240",
+    "firebase_url": "https://celebae-ac09d.firebaseio.com",
+    "project_id": "celebae-ac09d",
+    "storage_bucket": "celebae-ac09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427210682240:android:83a150383752ac7ba15b65",
+        "android_client_info": {
+          "package_name": "com.example.celebae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427210682240-upnm3tbnenq73g4872bpuhvkhutt3rje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8nQpY594AzZwuPQRNjQhNPeltblsPzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427210682240-upnm3tbnenq73g4872bpuhvkhutt3rje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
